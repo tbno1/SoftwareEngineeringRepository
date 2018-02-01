@@ -1,5 +1,5 @@
 # SoftwareEngineeringRepository
-This is a repository for software engineering,let'u enjoy it.
+This is a repository for software engineering,let's enjoy it.
 
 ### 上传规范 ###
 1. 请按照适当的分类上传书籍资料或者文献
